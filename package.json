@@ -29,7 +29,8 @@
       "@kne-components/react-file-type"
     ],
     "node-libs": [
-      "@kne/fetch-npm-package"
+      "@kne/fetch-npm-package",
+      "@kne/modules-dev"
     ],
     "miniprograms": [
       "@kne/mini-core",
