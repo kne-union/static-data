@@ -33,7 +33,10 @@
       "@kne/fetch-npm-package",
       "@kne/load-npm-info",
       "@kne/modules-dev",
-      "@kne/blog-maker"
+      "@kne/blog-maker",
+      "@kne/md-doc",
+      "@kne/camel-case",
+      "@kne/apply-template"
     ],
     "miniprograms": [
       "@kne/mini-core",
