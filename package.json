@@ -32,6 +32,7 @@
     "node-libs": [
       "@kne/fetch-npm-package",
       "@kne/load-npm-info",
+      "@kne/npm-tools",
       "@kne/modules-dev",
       "@kne/blog-maker",
       "@kne/md-doc",
