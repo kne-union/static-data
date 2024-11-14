@@ -31,6 +31,7 @@
       "@kne-components/super-select",
       "@kne-components/scroll-loader",
       "@kne-components/jsonschema-form",
+      "@kne-components/format-document-builder",
       "@kne-components/react-fetch",
       "@kne-components/react-org-chart",
       "@kne-components/react-flow-chart",
